@@ -1,2 +1,2 @@
 # CW3E-Surface-Met-Analysis
-Code to look at CW3E .dat files pertaining to our SMOILs.
+Python jupyter notebook fxns to look at CW3E .dat files pertaining to our SMOILs.
